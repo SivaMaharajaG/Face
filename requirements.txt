@@ -1,7 +1,6 @@
 face_recognition
-opencv-python
-numpy
+cv2
+os
+pickle
 pandas
-cmake
-dlib
 tkinter
